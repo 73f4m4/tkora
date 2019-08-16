@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+     <channel>
+          <lastBuildDate>Sat, 17 Aug 2019 00:47:34 +0200</lastBuildDate>
+          <title>Pete Podcast</title>
+          <link>http://www.google.com</link>
+          <language>en-us</language>
+          <copyright>Pete</copyright>
+          <description>the quick brown fox</description>
+          <itunes:subtitle>this is a test</itunes:subtitle>
+          <itunes:author>pete</itunes:author>
+          <itunes:summary>jumps over the lazy dog</itunes:summary>
+          <itunes:category text="Comedy" />
+          <itunes:owner>
+               <itunes:name>pete</itunes:name>
+               <itunes:email>psobol@gmail.com</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcast.rickygervais.com/rgpodcastimagejul2011_300.jpg" />
+          <item>
+               <title>Out Now - The Ricky Gervais Guide To... Medicine</title>
+               <itunes:author>Pete S</itunes:author>
+               <itunes:subtitle>the quick brown fox</itunes:subtitle>
+               <itunes:summary>jumps over the lazy dog</itunes:summary>
+               <enclosure url="http://podcast.rickygervais.com/rgguideto_promo1.mp3" type="audio/x-m4a" length="4470447" />
+               <guid>ttp://podcast.rickygervais.com/rgguideto_promo1.mp3</guid>
+               <pubDate>Tue, 9 Dec 2008 23:55:44 +0100</pubDate>
+               <itunes:duration>00:09:18</itunes:duration>
+               <itunes:keywords>Ricky, Gervais, Steve, Merchant, Karl, Pilkington, The, Ricky, Gervais, Guide, To, Medicine, NME, Radio, Podcast, Office, Extras, This Side of the Truth</itunes:keywords>
+               <itunes:explicit>yes</itunes:explicit>
+               <category>Comedy</category>
+               <title>In Now - The Ricky Gervais Guide To... Medicine</title>
+               <itunes:author>Ricky Gervais</itunes:author>
+               <itunes:subtitle>the quick brown fox</itunes:subtitle>
+               <itunes:summary>jumps over the lazy dog</itunes:summary>
+               <enclosure url="http://podcast.rickygervais.com/rgguideto_promo1.mp3" type="audio/x-m4a" length="4470447" />
+               <guid>ttp://podcast.rickygervais.com/rgguideto_promo1.mp3</guid>
+               <pubDate>Tue, 9 Dec 2008 23:55:44 +0100</pubDate>
+               <itunes:duration>00:09:18</itunes:duration>
+               <itunes:keywords>blah blah blah</itunes:keywords>
+               <itunes:explicit>yes</itunes:explicit>
+               <category>Comedy</category>
+          </item>
+     </channel>
+</rss>
